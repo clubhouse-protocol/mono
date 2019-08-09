@@ -1,0 +1,20 @@
+[submodule "packages/protocol"]
+	path = packages/protocol
+	url = https://github.com/clubhouse-protocol/protocol
+	branch = master
+[submodule "packages/server"]
+	path = packages/server
+	url = https://github.com/clubhouse-protocol/server
+	branch = master
+[submodule "packages/human"]
+	path = packages/human
+	url = https://github.com/clubhouse-protocol/human
+	branch = master
+[submodule "packages/tutorial"]
+	path = packages/tutorial
+	url = https://github.com/clubhouse-protocol/tutorial
+	branch = master
+[submodule "packages/transporter-socket"]
+	path = packages/transporter-socket
+	url = https://github.com/clubhouse-protocol/transporter-socket
+	branch = master
